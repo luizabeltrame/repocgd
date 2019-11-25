@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Teste A
+=======
+Teste RR
+>>>>>>> b65c516938ce83340687b33a4c6e17e88d07f4e2
